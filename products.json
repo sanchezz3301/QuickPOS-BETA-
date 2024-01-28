@@ -1,0 +1,38 @@
+[
+  {
+    "barcode": "123456789",
+    "name": "Milka",
+    "price": 2.99,
+    "cost_price": 1.5
+  },
+  {
+    "barcode": "987654321",
+    "name": "Coca-Cola",
+    "price": 1.99,
+    "cost_price": 1.1
+  },
+  {
+    "barcode": "543216789",
+    "name": "Lays",
+    "price": 1.49,
+    "cost_price": 0.8
+  },
+  {
+    "barcode": "111111111",
+    "name": "Fanta",
+    "price": 2.29,
+    "cost_price": 1.6
+  },
+  {
+    "barcode": "333333333",
+    "name": "Sprite_1L",
+    "price": 1.4,
+    "cost_price": 1.0
+  },
+  {
+    "barcode": "222222222",
+    "name": "cipsim",
+    "price": 2.0,
+    "cost_price": 1.7
+  }
+]
